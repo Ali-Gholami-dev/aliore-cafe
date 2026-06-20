@@ -1,0 +1,277 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "reservation": "Reservation",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Sign In",
+    "register": "Register",
+    "dashboard": "My Account",
+    "admin": "Admin Panel",
+    "logout": "Sign Out",
+    "orderOnline": "Order Online"
+  },
+  "hero": {
+    "tagline": "Est. 2019 — Paris-Inspired",
+    "headline": "Where Every Sip Tells a Story",
+    "subheadline": "Experience the art of fine dining and specialty coffee in an atmosphere crafted for the extraordinary.",
+    "cta": "Reserve Your Table",
+    "ctaMenu": "Explore Menu",
+    "scrollHint": "Scroll to Explore"
+  },
+  "home": {
+    "featured": {
+      "label": "Chef's Selection",
+      "title": "Culinary Masterpieces",
+      "subtitle": "Crafted with passion, served with elegance"
+    },
+    "experience": {
+      "label": "The Aliore Experience",
+      "title": "More Than a Meal",
+      "subtitle": "We believe dining is theatre — every detail, every flavour, every moment is choreographed.",
+      "stat1": { "value": "120+", "label": "Curated Dishes" },
+      "stat2": { "value": "98%", "label": "Guest Satisfaction" },
+      "stat3": { "value": "5★", "label": "Michelin Recognition" },
+      "stat4": { "value": "12", "label": "Years of Excellence" }
+    },
+    "chef": {
+      "label": "Meet the Visionary",
+      "title": "Chef Alexandre Moreau",
+      "bio": "Born in Lyon, trained in Paris, refined in Tokyo. Chef Alexandre brings three continents of culinary mastery to every dish at Aliore. His philosophy is simple: the finest ingredients, prepared with precision, presented with soul.",
+      "quote": "Cooking is not about convenience. It is about love.",
+      "cta": "Our Story"
+    },
+    "reservation": {
+      "title": "Reserve Your Table",
+      "subtitle": "Secure your place in an experience unlike any other",
+      "cta": "Book Now"
+    },
+    "testimonials": {
+      "label": "What Our Guests Say",
+      "title": "Unforgettable Moments"
+    },
+    "gallery": {
+      "label": "Gallery",
+      "title": "A Visual Feast",
+      "cta": "View All"
+    },
+    "blog": {
+      "label": "Stories & Insights",
+      "title": "From Our Kitchen",
+      "cta": "Read All Stories"
+    }
+  },
+  "menu": {
+    "title": "Our Menu",
+    "subtitle": "Seasonal ingredients, timeless recipes",
+    "search": "Search dishes...",
+    "categories": {
+      "all": "All",
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "dinner": "Dinner",
+      "coffee": "Coffee & Tea",
+      "desserts": "Desserts",
+      "drinks": "Cocktails & Drinks"
+    },
+    "addToCart": "Add to Order",
+    "vegan": "Vegan",
+    "glutenFree": "Gluten-Free",
+    "calories": "kcal",
+    "prepTime": "min",
+    "noResults": "No dishes found",
+    "featured": "Chef's Pick"
+  },
+  "reservation": {
+    "title": "Reserve a Table",
+    "subtitle": "Choose your perfect spot",
+    "steps": {
+      "date": "Date & Time",
+      "table": "Select Table",
+      "details": "Your Details",
+      "confirm": "Confirm"
+    },
+    "form": {
+      "date": "Date",
+      "time": "Time",
+      "guests": "Number of Guests",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "notes": "Special Requests",
+      "notesPlaceholder": "Allergies, celebrations, special arrangements...",
+      "next": "Continue",
+      "back": "Back",
+      "confirm": "Confirm Reservation"
+    },
+    "map": {
+      "title": "Restaurant Floor Plan",
+      "zones": {
+        "INDOOR": "Indoor",
+        "OUTDOOR": "Outdoor Garden",
+        "TERRACE": "Rooftop Terrace",
+        "BAR": "Bar Lounge",
+        "PRIVATE": "Private Dining"
+      },
+      "available": "Available",
+      "reserved": "Reserved",
+      "occupied": "Occupied",
+      "selected": "Your Selection",
+      "capacity": "Seats"
+    },
+    "confirmation": {
+      "title": "Reservation Confirmed!",
+      "subtitle": "We look forward to welcoming you",
+      "code": "Confirmation Code",
+      "details": "Reservation Details"
+    }
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "A decade of crafting extraordinary moments",
+    "mission": {
+      "title": "Our Philosophy",
+      "content": "Aliore was born from a simple belief: that every meal should be an event, every coffee a ritual, every visit a memory. We source our ingredients from the world's finest producers, our coffee from altitude estates, our wines from boutique vineyards."
+    },
+    "team": {
+      "title": "The Aliore Family",
+      "subtitle": "The passionate people behind every perfect moment"
+    },
+    "values": {
+      "title": "What We Stand For",
+      "quality": { "title": "Uncompromising Quality", "desc": "Only the finest ingredients make it to your table." },
+      "craft":   { "title": "Artisan Craft", "desc": "Every dish is made from scratch, by hand, with care." },
+      "warmth":  { "title": "Genuine Warmth", "desc": "You are our guest, not our customer." },
+      "soul":    { "title": "Soulful Food", "desc": "We cook with emotion, not just technique." }
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Captured moments of beauty",
+    "categories": {
+      "all": "All",
+      "food": "Cuisine",
+      "interior": "Interior",
+      "events": "Events",
+      "coffee": "Coffee"
+    }
+  },
+  "blog": {
+    "title": "Stories & Insights",
+    "subtitle": "From our kitchen to your world",
+    "readMore": "Read Story",
+    "author": "By",
+    "share": "Share"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We would love to hear from you",
+    "form": {
+      "name": "Your Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "address": "12 Rue de la Paix, 75001 Paris, France",
+      "phone": "+33 1 42 96 00 00",
+      "email": "hello@aliore.cafe",
+      "hours": {
+        "title": "Opening Hours",
+        "weekdays": "Mon–Fri: 7:30 AM – 11:00 PM",
+        "weekend": "Sat–Sun: 8:00 AM – 12:00 AM"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your Aliore account",
+      "email": "Email",
+      "password": "Password",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "submit": "Sign In",
+      "noAccount": "Don't have an account?",
+      "register": "Create one"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join the Aliore family",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirm": "Confirm Password",
+      "submit": "Create Account",
+      "hasAccount": "Already have an account?",
+      "login": "Sign In",
+      "terms": "By registering you agree to our Terms & Privacy Policy"
+    }
+  },
+  "dashboard": {
+    "title": "My Account",
+    "nav": {
+      "overview": "Overview",
+      "reservations": "Reservations",
+      "orders": "Orders",
+      "favorites": "Favorites",
+      "profile": "Profile"
+    }
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "nav": {
+      "overview": "Overview",
+      "reservations": "Reservations",
+      "menu": "Menu",
+      "tables": "Tables",
+      "orders": "Orders",
+      "blog": "Blog",
+      "gallery": "Gallery",
+      "testimonials": "Testimonials",
+      "users": "Users",
+      "settings": "Settings"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "close": "Close",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "currency": "$",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  },
+  "footer": {
+    "tagline": "Crafting extraordinary moments since 2019",
+    "links": {
+      "title": "Quick Links"
+    },
+    "hours": {
+      "title": "Hours"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "Your email address",
+      "cta": "Subscribe",
+      "desc": "Exclusive events, seasonal menus & more"
+    },
+    "copyright": "© 2025 Aliore Café. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

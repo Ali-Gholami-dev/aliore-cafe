@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "menu": "Speisekarte",
+    "about": "Über Uns",
+    "reservation": "Reservierung",
+    "gallery": "Galerie",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "dashboard": "Mein Konto",
+    "admin": "Administration",
+    "logout": "Abmelden",
+    "orderOnline": "Online Bestellen"
+  },
+  "hero": {
+    "tagline": "Gegr. 2019 — Pariser Inspiration",
+    "headline": "Wo Jeder Schluck eine Geschichte Erzählt",
+    "subheadline": "Erleben Sie die Kunst des feinen Essens und Spezialitätenkaffees in einer Atmosphäre für das Außergewöhnliche.",
+    "cta": "Tisch Reservieren",
+    "ctaMenu": "Menü Entdecken",
+    "scrollHint": "Scrollen zum Entdecken"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Etwas ist schiefgelaufen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "add": "Hinzufügen",
+    "close": "Schließen",
+    "confirm": "Bestätigen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "all": "Alle",
+    "currency": "€",
+    "darkMode": "Dunkelmodus",
+    "lightMode": "Hellmodus"
+  },
+  "footer": {
+    "tagline": "Außergewöhnliche Momente seit 2019",
+    "copyright": "© 2025 Aliore Café. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
+  }
+}

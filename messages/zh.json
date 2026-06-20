@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "首页",
+    "menu": "菜单",
+    "about": "关于我们",
+    "reservation": "预订",
+    "gallery": "图库",
+    "blog": "博客",
+    "contact": "联系我们",
+    "login": "登录",
+    "register": "注册",
+    "dashboard": "我的账户",
+    "admin": "管理面板",
+    "logout": "退出",
+    "orderOnline": "在线点餐"
+  },
+  "hero": {
+    "tagline": "创立于2019 — 巴黎风情",
+    "headline": "每一口都在诉说故事",
+    "subheadline": "在为非凡时刻而设的氛围中，体验精致餐饮和精品咖啡的艺术。",
+    "cta": "预订餐桌",
+    "ctaMenu": "探索菜单",
+    "scrollHint": "滚动探索"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "add": "添加",
+    "close": "关闭",
+    "confirm": "确认",
+    "back": "返回",
+    "next": "下一步",
+    "search": "搜索",
+    "filter": "筛选",
+    "all": "全部",
+    "currency": "¥",
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式"
+  },
+  "footer": {
+    "tagline": "自2019年起缔造非凡时刻",
+    "copyright": "© 2025 Aliore Café. 版权所有。",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}

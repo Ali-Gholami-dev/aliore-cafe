@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "about": "À Propos",
+    "reservation": "Réservation",
+    "gallery": "Galerie",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "dashboard": "Mon Compte",
+    "admin": "Administration",
+    "logout": "Déconnexion",
+    "orderOnline": "Commander en Ligne"
+  },
+  "hero": {
+    "tagline": "Est. 2019 — Inspiration Parisienne",
+    "headline": "Là où Chaque Gorgée Raconte une Histoire",
+    "subheadline": "Vivez l'art de la gastronomie et du café de spécialité dans une atmosphère créée pour l'extraordinaire.",
+    "cta": "Réserver une Table",
+    "ctaMenu": "Explorer le Menu",
+    "scrollHint": "Défiler pour Explorer"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "close": "Fermer",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "all": "Tous",
+    "currency": "€",
+    "darkMode": "Mode Sombre",
+    "lightMode": "Mode Clair"
+  },
+  "footer": {
+    "tagline": "Créer des moments extraordinaires depuis 2019",
+    "copyright": "© 2025 Aliore Café. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  }
+}

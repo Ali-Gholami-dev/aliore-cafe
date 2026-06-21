@@ -138,7 +138,7 @@ aliore-cafe/
 1. Push to GitHub
 2. Import the repo at [vercel.com](https://vercel.com)
 3. Add environment variables (`DATABASE_URL`, `AUTH_SECRET`, `AUTH_URL`)
-4. For production, swap `provider = "sqlite"` to `"postgresql"` in `schema.prisma` and point `DATABASE_URL` at a hosted Postgres instance ([Neon](https://neon.tech) or [Supabase](https://supabase.com) both have free tiers)
+4. This project uses PostgreSQL in production. Set `DATABASE_URL` to a hosted Postgres connection string ([Neon](https://neon.tech) or [Supabase](https://supabase.com) both have free tiers)
 5. Deploy
 
 ### Self-hosted / VPS

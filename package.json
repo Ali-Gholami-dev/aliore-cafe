@@ -1,18 +1,19 @@
 {
   "name": "aliore-cafe",
   "version": "1.0.0",
-  "description": "Aliore Café — Award-winning luxury restaurant & café website",
+  "description": "Aliore Caf\u00e9 \u2014 Award-winning luxury restaurant & caf\u00e9 website",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "prisma generate && next build",
     "start": "next start",
     "lint": "next lint",
     "db:generate": "prisma generate",
     "db:push": "prisma db push",
     "db:migrate": "prisma migrate dev",
     "db:seed": "tsx prisma/seed.ts",
-    "db:studio": "prisma studio"
+    "db:studio": "prisma studio",
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.7.2",

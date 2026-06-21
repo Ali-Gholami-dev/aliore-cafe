@@ -3,11 +3,11 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
-// SQLite does not support enums — all enum fields use String with default values
+// Using String fields instead of native enums for portability across SQLite/Postgres
 
 model User {
   id            String    @id @default(cuid())

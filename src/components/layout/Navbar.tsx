@@ -76,12 +76,13 @@ export default function Navbar({ locale }: NavbarProps) {
             {/* ── Logo + Brand ── */}
             <Link href={`/${locale}`} className="flex items-center gap-3 group">
               {/* SVG icon — no bad animation, just a clean opacity hover */}
-              <div className="w-9 h-9 flex-shrink-0 opacity-90 group-hover:opacity-100 transition-opacity duration-300">
+              <div className="w-12 h-12 sm:w-14 sm:h-14 md:w-16 md:h-16 flex-shrink-0 opacity-90 group-hover:opacity-100 transition-opacity duration-300">
                 <Image
-                  src="/logo.svg"
+                  src="/logo.png"
                   alt="Aliore Café logo"
-                  width={36}
-                  height={36}
+                  width={64}
+                  height={64}
+                  className="w-full h-full object-contain"
                   priority
                 />
               </div>
